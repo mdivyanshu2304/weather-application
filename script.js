@@ -1,6 +1,7 @@
 // get weather information using api call
 function getWeather(){
-    const apiKey='931327afc81cd3abe098503fef072475';
+    // add your own api key 
+    const apiKey='add your api key';
     const city=document.getElementById('city').value ;
 
     if(!city){
