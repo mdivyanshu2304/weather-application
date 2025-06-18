@@ -105,4 +105,3 @@ function showImage() {
 }
 
 
-// document.querySelector('button').addEventListener('click', getWeather);
